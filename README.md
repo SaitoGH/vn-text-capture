@@ -24,5 +24,5 @@ The project is intended for usage by the general public.
 + Image Folder is for miscellaneous files apart from Tesseract-OCR.
 
 ## Latest Release
-* Version 0.1a [Pre-release]`#0969DA`
+* Version 0.1a [Pre-release]
   - _https://github.com/SaitoGH/vn-text-capture/releases/tag/0.1a_
