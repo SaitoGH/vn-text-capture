@@ -3,8 +3,10 @@ A project aimed at developing software that enables **interactive learning** of 
 
 The project is intended for usage by the general public.
 
-<img src="https://github.com/SaitoGH/vn-text-capture/assets/42116722/320937cb-8d15-4c4a-9a88-3f48b4abd011" width="625" height="400"><br>
+![Sample Image](https://github.com/SaitoGH/vn-text-capture/assets/42116722/04e67671-fe86-4c0c-bdf3-cb3c5d3dac7c)
+
 ## API-Used
+
 - *Jisho [Search API](https://jisho.org/)*
 - *PyTesseract [OCR](https://github.com/madmaze/pytesseract)*
 - *GoogleTrans [Translation-JP-to-EN](https://github.com/ssut/py-googletrans)*
